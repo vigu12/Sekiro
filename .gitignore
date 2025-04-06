@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.log
+output/
+tools/dnsrecon/
+tools/fierce/
+tools/dnsmap/
+config/virustotal_api.txt
+

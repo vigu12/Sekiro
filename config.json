@@ -1,0 +1,5 @@
+{
+  "virustotal_api_key": "YOUR_VIRUSTOTAL_API_KEY",
+  "censys_api_id": "YOUR_CENSYS_API_ID",
+  "censys_api_secret": "YOUR_CENSYS_API_SECRET"
+}
