@@ -1,3 +1,9 @@
 sublist3r
 dnspython
 requests
+shodan
+censys
+python-whois
+python-dotenv
+urllib3
+beautifulsoup4
