@@ -1,14 +1,5 @@
 # 🐺 Sekiro - Recon Framework
 
-
-_________ ___________  ____  __. .___  __________  ________
- /   _____/ \_   _____/ |    |/ _| |   | \______   \ \_____  \\
- \_____  \   |    __)_  |      <   |   |  |       _/  /   |   \\
- /        \  |        \ |    |  \  |   |  |    |   \ /    |    \\
-/_______  / /_______  / |____|__ \ |___|  |____|_  / \_______ 
-        \/          \/          \/               \/          \\
-
-
 **Sekiro** is a powerful, all-in-one **reconnaissance CLI tool** built for bug bounty hunters, red teamers, and penetration testers.  
 Inspired by the *One-Arm Wolf*, it slices through targets using the sharpest tools in the recon arsenal.
 
